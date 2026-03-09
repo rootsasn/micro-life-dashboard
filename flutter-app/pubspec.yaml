@@ -13,6 +13,7 @@ dependencies:
   hive_flutter: ^1.1.0
   path_provider: ^2.1.1
   intl: ^0.18.1
+  flutter_riverpod: ^2.4.9
 
 dev_dependencies:
   flutter_test:
