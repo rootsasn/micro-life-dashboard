@@ -1,0 +1,18 @@
+# Web PWA
+web-pwa/node_modules/
+web-pwa/dist/
+web-pwa/.env
+
+# Flutter
+flutter-app/.dart_tool/
+flutter-app/.flutter-plugins
+flutter-app/.flutter-plugins-dependencies
+flutter-app/.packages
+flutter-app/build/
+flutter-app/*.g.dart
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
